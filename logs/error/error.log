@@ -1,0 +1,10 @@
+[WARN] 2024-12-24 18:30:15 IXmlReader: MinionData: Could not parse minionData.xml is not a file or it doesn't exist!
+[WARN] 2024-12-24 18:30:15 IXmlReader: NpcData: Folder /home/oem/文件/l2jserver/l2j-server-datapack/data/stats/npcs doesn't exist!
+[WARN] 2024-12-24 18:30:16 IXmlReader: AdminData: Could not parse accessLevels.xml is not a file or it doesn't exist!
+[WARN] 2024-12-24 18:30:16 IXmlReader: AdminData: Could not parse adminCommands.xml is not a file or it doesn't exist!
+[WARN] 2024-12-24 18:30:17 MenuSelect: Invalid bypass menu_select?reply=123&ask=456!
+[WARN] 2024-12-24 18:30:17 MenuSelect: Invalid bypass menu_select? ask=123&reply=456!
+[WARN] 2024-12-24 18:30:17 MenuSelect: Invalid bypass invalid_bypass!
+[WARN] 2024-12-24 18:30:17 MenuSelect: Invalid bypass menu_select?ask=123!
+[WARN] 2024-12-24 18:30:17 MenuSelect: Invalid bypass menu_select?reply=456!
+[WARN] 2024-12-24 18:30:17 MenuSelect: Invalid bypass menu_select?ask=abc?reply=def!
