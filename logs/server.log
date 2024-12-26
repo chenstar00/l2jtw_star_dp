@@ -1,0 +1,20 @@
+[INFO] 2024-12-24 18:30:14 GameServer: -----------------------------------=[ Network Configuration ]
+[INFO] 2024-12-24 18:30:14 IPConfigData: Using automatic network configuration.
+[INFO] 2024-12-24 18:30:14 IPConfigData: Adding new subnet: 192.168.1.0/24 address: 192.168.1.105
+[INFO] 2024-12-24 18:30:14 IPConfigData: Adding new subnet: 127.0.0.0/8 address: 127.0.0.1
+[INFO] 2024-12-24 18:30:14 IPConfigData: Adding new subnet: 0.0.0.0/0 address: 122.121.147.177
+[WARN] 2024-12-24 18:30:15 IXmlReader: MinionData: Could not parse minionData.xml is not a file or it doesn't exist!
+[INFO] 2024-12-24 18:30:15 NpcData$MinionData: Loaded 0 minions data.
+[WARN] 2024-12-24 18:30:15 IXmlReader: NpcData: Folder /home/oem/文件/l2jserver/l2j-server-datapack/data/stats/npcs doesn't exist!
+[INFO] 2024-12-24 18:30:15 NpcData: Loaded 0 NPCs.
+[INFO] 2024-12-24 18:30:16 HtmCache: Running lazy cache.
+[WARN] 2024-12-24 18:30:16 IXmlReader: AdminData: Could not parse accessLevels.xml is not a file or it doesn't exist!
+[INFO] 2024-12-24 18:30:16 AdminData: Loaded 0 access levels.
+[WARN] 2024-12-24 18:30:16 IXmlReader: AdminData: Could not parse adminCommands.xml is not a file or it doesn't exist!
+[INFO] 2024-12-24 18:30:16 AdminData: Loaded 0 access commands.
+[WARN] 2024-12-24 18:30:17 MenuSelect: Invalid bypass menu_select?reply=123&ask=456!
+[WARN] 2024-12-24 18:30:17 MenuSelect: Invalid bypass menu_select? ask=123&reply=456!
+[WARN] 2024-12-24 18:30:17 MenuSelect: Invalid bypass invalid_bypass!
+[WARN] 2024-12-24 18:30:17 MenuSelect: Invalid bypass menu_select?ask=123!
+[WARN] 2024-12-24 18:30:17 MenuSelect: Invalid bypass menu_select?reply=456!
+[WARN] 2024-12-24 18:30:17 MenuSelect: Invalid bypass menu_select?ask=abc?reply=def!
